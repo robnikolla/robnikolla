@@ -7,7 +7,7 @@ Full-stack Web Developer
 * 🌍  I'm based in Kosovo
 * 🖥️  See my portfolio at [robertnikolla.netlify.app](http://robertnikolla.netlify.app/)
 * ✉️  You can contact me at [nikollarobert8@gmail.com](mailto:nikollarobert8@gmail.com)
-* 🧠  I'm learning ReactJS and Firebase
+* 🧠  I'm currently learning Laravel
 * 🤝  I'm open to collaborating on interesting webapp projects
 
 ### Skills
