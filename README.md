@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Robert Nikolla</h1>
 <h3 align="center">Full-Stack Engineer | Crafting Web Solutions with Precision</h3>
 
-- 👨‍💻 All of my projects are available at [https://robertnikolla.netlify.app](https://robertnikolla.netlify.app)
+- 👨‍💻 All of my projects are available at [https://robertnikolla.dev](https://robertnikolla.dev)
 
 - 🤝 I'm open to collaborating on **interesting full-stack web projects**
 
