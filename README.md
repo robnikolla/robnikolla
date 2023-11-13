@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">Full-Stack Engineer | Crafting Web Solutions with Precision</h3>
+<h3 align="center">Full-Stack Engineer</h3>
 
 ###
 
