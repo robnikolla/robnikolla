@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Solving bugs since 2019<br>📚 I'm currently learning Prisma and GraphQL<br>💼 All my projects are available at https://robertnikolla.dev</p>
+<p align="left">✨ Solving bugs since 2019<br>📚 I'm currently learning Drizzle and GraphQL<br>💼 All my projects are available at https://robertnikolla.dev</p>
 
 ###
 
