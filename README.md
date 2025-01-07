@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Solving bugs since 2019L<br>💼 All my projects are available at https://robertnikolla.dev</p>
+<p align="left">✨ Solving bugs since 2019<br>💼 All my projects are available at https://robertnikolla.dev</p>
 
 ###
 
